@@ -37,7 +37,7 @@ export default async function handler(req, res) {
 
   try {
     // Check if we have OpenAI key
-    const openaiKey = process.env.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
+    const openaiKey = process.env.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;
     
     let generatedPost;
     
